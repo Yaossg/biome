@@ -14,15 +14,15 @@
 
 ## 2 The Overworld
 
- * [2.1 The Overworld](2-the-overworld/2.1-the-overworld.md)
+ * [2.1 主世界](2-the-overworld/2.1-the-overworld.md)
 
- * [2.2 Main Layer](2-the-overworld/2.2-main-layer.md)
+ * [2.2 主线](2-the-overworld/2.2-main-layer.md)
 
- * [2.3 River Layer](2-the-overworld/2.3-river-layer.md)
+ * [2.3 河流支线](2-the-overworld/2.3-river-layer.md)
 
- * [2.4 Ocean Layer](2-the-overworld/2.4-ocean-layer.md)
+ * [2.4 海洋支线](2-the-overworld/2.4-ocean-layer.md)
 
- * [2.5 Altogether](2-the-overworld/2.5-altogether.md)
+ * [2.5 三线合一](2-the-overworld/2.5-altogether.md)
 
 ## 3 The Otherworlds
 
@@ -36,11 +36,11 @@
 
 ## A Appendices
 
- * [A.1 Comparison of Difficult Names](a-appendices/a.1-comparison-of-difficult-names.md)
+ * [A.1 疑难名字对照表](a-appendices/a.1-comparison-of-difficult-names.md)
 
- * [A.2 Properties of Biomes](a-appendices/a.2-properties-of-biomes.md)
+ * [A.2 生物群系属性表](a-appendices/a.2-properties-of-biomes.md)
 
- * [A.3 Varaints of Biomes](a-appendices/a.3-varaints-of-biomes.md)
+ * [A.3 变种生物群系表](a-appendices/a.3-varaints-of-biomes.md)
 
- * [A.4 Default Climate Parameters](a-appendices/a.4-default-climate-parameters.md)
+ * [A.4 默认气候参数表](a-appendices/a.4-default-climate-parameters.md)
 

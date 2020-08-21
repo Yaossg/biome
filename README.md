@@ -65,7 +65,7 @@
 
 ## 2 The Overworld
 
-### 2.1 The Overworld
+### 2.1 主世界
 
 [**2.1 主世界**](2-the-overworld/2.1-the-overworld.md)
 
@@ -76,7 +76,7 @@
   + [远亲不如近邻](2-the-overworld/2.1-the-overworld.md#远亲不如近邻)
 - [三条线](2-the-overworld/2.1-the-overworld.md#三条线)
 
-### 2.2 Main Layer
+### 2.2 主线
 
 [**2.2 主线**](2-the-overworld/2.2-main-layer.md)
 
@@ -103,7 +103,7 @@
   + [混合海洋](2-the-overworld/2.2-main-layer.md#混合海洋)
 - [完成：动态放大化](2-the-overworld/2.2-main-layer.md#完成：动态放大化)
 
-### 2.3 River Layer
+### 2.3 河流支线
 
 [**2.3 河流支线**](2-the-overworld/2.3-river-layer.md)
 
@@ -112,12 +112,12 @@
 - [河流](2-the-overworld/2.3-river-layer.md#河流)
 - [合并河流](2-the-overworld/2.3-river-layer.md#合并河流)
 
-### 2.4 Ocean Layer
+### 2.4 海洋支线
 
 [**2.4 海洋支线**](2-the-overworld/2.4-ocean-layer.md)
 
 
-### 2.5 Altogether
+### 2.5 三线合一
 
 [**2.5 三线合一**](2-the-overworld/2.5-altogether.md)
 
@@ -146,25 +146,25 @@
 
 ## A Appendices
 
-### A.1 Comparison of Difficult Names
+### A.1 疑难名字对照表
 
 [**A.1 疑难名字对照表**](a-appendices/a.1-comparison-of-difficult-names.md)
 
 - [噪声](a-appendices/a.1-comparison-of-difficult-names.md#噪声)
 
-### A.2 Properties of Biomes
+### A.2 生物群系属性表
 
 [**A.2 生物群系属性表**](a-appendices/a.2-properties-of-biomes.md)
 
 - [温度、降水量、深度和规模表](a-appendices/a.2-properties-of-biomes.md#温度、降水量、深度和规模表)
 - [类别、降水类型表](a-appendices/a.2-properties-of-biomes.md#类别、降水类型表)
 
-### A.3 Varaints of Biomes
+### A.3 变种生物群系表
 
 [**A.3 变种生物群系表**](a-appendices/a.3-varaints-of-biomes.md)
 
 
-### A.4 Default Climate Parameters
+### A.4 默认气候参数表
 
 [**A.4 默认气候参数表**](a-appendices/a.4-default-climate-parameters.md)
 
