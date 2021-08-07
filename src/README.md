@@ -1,6 +1,6 @@
 # 再析世界生成：生物群系
 
-<font color=red size=64>**警告：文章未完成（WIP），非请勿入**</font>
+<font color=red size=64>**警告：文章未完成，非请勿入**</font>
 
 ## 摘要
 

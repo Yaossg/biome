@@ -1,6 +1,6 @@
 # Summary
 
-[再析世界生成：生物群系](reference-note.md)
+[再析世界生成：生物群系](README.md)
 
 - [引入 Introduction]()
   - [A for Abstract](1-introduction/1.1-a-for-abstract.md)
