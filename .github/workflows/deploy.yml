@@ -26,10 +26,10 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
+        if: ${{ github.ref == 'refs/heads/master' }}
         with:
           personal_token: ${{ secrets.REPO }}
           publish_dir: ./book/html
-          publish_branch: main
+          publish_branch: master
           destination_dir: biome
           external_repository: Yaossg/yaossg.github.io
