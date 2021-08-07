@@ -1,0 +1,15 @@
+[book]
+authors = ["Yaossg"]
+language = "zh-Hans"
+multilingual = false
+src = "src"
+title = "Biome"
+
+[rust]
+edition = "2018"
+
+[output.html]
+git-repository-url = "https://github.com/Yaossg/biome"
+site-url = "/biome/"
+
+[output.linkcheck]
