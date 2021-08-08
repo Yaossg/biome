@@ -23,6 +23,6 @@
   - [TODO](4-features/TODO.md)
 - [附录 Appendices]()
   - [数据表](a-appendices/tables-of-data.md)
-  - [变种生物群系表](a-appendices/varaints-of-biomes.md)
+  - [变种生物群系表](a-appendices/mutations-of-biomes.md)
 
 [终章](finale.md)
