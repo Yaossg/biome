@@ -5,6 +5,9 @@ multilingual = false
 src = "src"
 title = "Biome"
 
+[build]
+create-missing = false
+
 [rust]
 edition = "2018"
 

@@ -29,9 +29,18 @@ Part B
 
 > 才闻欢笑，又见泪光——《大明宫》
 
+> 昔我往矣，杨柳依依；今我来思，雨雪霏霏；行道迟迟，载渴载饥；我心伤悲，莫知我哀。——《诗经·小雅·采薇》
 
 Part C
 TODO
+
+>One minute we had it all
+>Next our world began to fall
+>Away from all that it had once become
+
+> I love you. All of you, Thank you for turning *Minecraft* into what it has become...In one sense, it belongs to Microsoft now. In a much bigger sense, it’s belonged to all of you for a long time, and that will never change.
+>
+> ——Notch, interviewed when Minecraft was sold to Microsoft
 
 ## 鸣谢 Acknowledge
 
