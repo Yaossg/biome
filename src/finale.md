@@ -1,5 +1,7 @@
 # 5 终章
 
+## 后记
+
 > Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Unknown
 >
 > 20年之后，更令你失望的不是你做了什么，而是你没做什么。所以解开帆脚索，离开安全的港湾，赶着航程中的信风，去探索，去梦想，去发现。
@@ -7,7 +9,12 @@
 > ——佚名，《终末之诗》鸣谢名单的末尾附言
 
 > And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
+>
+> You are the player.
+>
 > 曲终人散，黄粱一梦。玩家开始了新的梦境。玩家再次做起了梦，更好的梦。玩家就是宇宙。玩家就是爱。
+>
+> 你就是那个玩家。
 >
 > ——Julian Gough《终末之诗》
 
@@ -25,7 +32,7 @@ Part A
 Part B
 
 
-> ！！一段话，忘记去找了！！——《梗体中文·终末之诗》
+> ！！一段话，忘记去找了TODO！！——《梗体中文·终末之诗》
 
 > 才闻欢笑，又见泪光——《大明宫》
 
