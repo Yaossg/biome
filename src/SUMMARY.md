@@ -2,8 +2,6 @@
 
 [再析世界生成：生物群系](README.md)
 
-[绪言](preface.md)
-
 [凡例](notes.md)
 
 - [引入 Introduction](1-introduction/1.0-introduction.md)
