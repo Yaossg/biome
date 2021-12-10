@@ -26,6 +26,14 @@
 
 下面这些属性为下界生物群系特有。
 
+| 下界生物群系     |
+| ---------------- |
+| nether_wastes    |
+| soul_sand_valley |
+| crimson_forest   |
+| warped_forest    |
+| basalt_deltas    |
+
 ### 相同的属性
 
 下面这些属性对于所有下界生物群系都有相同的值。
@@ -33,20 +41,25 @@
 | 属性                                   | 值     |
 | -------------------------------------- | ------ |
 | SE.ambientAdditionsSettings.tickChance | 0.0111 |
-| SE.ambientMoodSettings.tickDelay       | 6000   |
 | SE.backgroundMusic.minDelay            | 12000  |
 | SE.backgroundMusic.maxDelay            | 24000  |
 | SE.backgroundMusic.replaceCurrentMusic | false  |
 
-### 其它
+### 相似的属性
 
-| 生物群系         | SE.ambientAdditionsSettings.soundEvent | SE.ambientLoopSoundEvent      | SE.backgroundMusic.event      |
-| ---------------- | -------------------------------------- | ----------------------------- | ----------------------------- |
-| nether_wastes    | ambient.nether_wastes.additions        | ambient.nether_wastes.loop    | music.nether.nether_wastes    |
-| soul_sand_valley | ambient.soul_sand_valley.additions     | ambient.soul_sand_valley.loop | music.nether.soul_sand_valley |
-| crimson_forest   | ambient.crimson_forest.additions       | ambient.crimson_forest.loop   | music.nether.crimson_forest   |
-| warped_forest    | ambient.warped_forest.additions        | ambient.warped_forest.loop    | music.nether.warped_forest    |
-| basalt_deltas    | ambient.basalt_deltas.additions        | ambient.basalt_deltas.loop    | music.nether.basalt_deltas    |
+下面这些属性对于所有下界生物群系都有相似的值。
+
+将表中\[biome]替换成下界生物群系的名字即为该下界生物群系该属性的值。
+
+| 属性                                   | 值                         |
+| -------------------------------------- | -------------------------- |
+| SE.ambientAdditionsSettings.soundEvent | ambient.\[biome].additions |
+| SE.ambientLoopSoundEvent               | ambient.\[biome].loop      |
+| SE.backgroundMusic.event               | music.nether.\[biome]      |
+
+### 其他属性
+
+这些属性为部分下界生物群系特有。
 
 | 生物群系         | SE.ambientParticleSettings.probability | SE.ambientParticleSettings.options |
 | ---------------- | -------------------------------------- | ---------------------------------- |
