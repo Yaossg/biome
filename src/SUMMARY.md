@@ -22,7 +22,6 @@
   - [The Nether](3-the-otherworlds/3.2-the-nether.md)
   - [The End](3-the-otherworlds/3.3-the-end.md)
   - [Checkerboard](3-the-otherworlds/3.4-checkerboard.md)
-- [TODO]()
 - [附录 Appendices]()
   - [数据表](appendices/tables-of-data.md)
   - [变种生物群系表](appendices/mutations-of-biomes.md)
