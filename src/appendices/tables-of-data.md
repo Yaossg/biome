@@ -51,11 +51,11 @@
 
 将表中\[biome]替换成下界生物群系的名字即为该下界生物群系该属性的值。
 
-| 属性                                   | 值                         |
-| -------------------------------------- | -------------------------- |
-| SE.ambientAdditionsSettings.soundEvent | ambient.\[biome].additions |
-| SE.ambientLoopSoundEvent               | ambient.\[biome].loop      |
-| SE.backgroundMusic.event               | music.nether.\[biome]      |
+| 属性                                       | 值                         |
+| ------------------------------------------ | -------------------------- |
+| **SE.ambientAdditionsSettings.soundEvent** | ambient.\[biome].additions |
+| **SE.ambientLoopSoundEvent**               | ambient.\[biome].loop      |
+| **SE.backgroundMusic.event**               | music.nether.\[biome]      |
 
 ### 其他属性
 
