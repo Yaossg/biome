@@ -10,7 +10,7 @@
   - [生物群系的历史回顾](1-introduction/1.3-history-of-biome.md)
   - [生物群系属性](1-introduction/1.4-properties-of-biome.md)
   - [区块](1-introduction/1.5-chunk.md)
-  - [维度](1-introduction/1.6-dimension.md)
+  - [维度与生物群系](1-introduction/1.6-dimension-and-biome.md)
 - [主世界 the Overworld](2-the-overworld/2.0-the-overworld.md)
   - [层](2-the-overworld/2.1-layers.md)
   - [主线](2-the-overworld/2.2-main-layer.md)
