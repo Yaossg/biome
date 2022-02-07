@@ -15,7 +15,7 @@
 - 前作：[浅析 1.13 世界生成](https://yaossg.com/blog/1-13-worldgen/) 
 
 - 本文：[再析世界生成：生物群系](https://yaossg.com/biome)
-  - MCBBS：
+  - MCBBS：[再析世界生成：生物群系](https://www.mcbbs.net/thread-1302344-1-1.html)
 
 - 第二章内容的视频链接见 2.5 节。
 
