@@ -2,28 +2,6 @@
 
 这一部分原本是绪言，经过再三考虑被改成了后记...
 
------
-
-> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Unknown
->
-> 20年之后，更令你失望的不是你做了什么，而是你没做什么。所以解开帆脚索，离开安全的港湾，赶着航程中的信风，去探索，去梦想，去发现。
->
-> ——佚名，《终末之诗》鸣谢名单的末尾附言
-
-> And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
->
-> You are the player.
->
-> 曲终人散，黄粱一梦。玩家开始了新的梦境。玩家再次做起了梦，更好的梦。玩家就是宇宙。玩家就是爱。
->
-> 你就是那个玩家。
->
-> ——Julian Gough《终末之诗》
-
-> 昔我往矣，杨柳依依；今我来思，雨雪霏霏；行道迟迟，载渴载饥；我心伤悲，莫知我哀。
->
-> ——《诗经·小雅·采薇》
-
 ## 前作
 
 写前作我我完全是一时兴起——我当时毫无这方面的经验。我一直以来对世界生成有着敬畏之心，因为世界生成总是给人一种宏大、复杂、难以研究的感觉。我试过寻找一些世界生成的文章，Switefaster 给我推荐了土球的那一篇知乎回答。
@@ -38,77 +16,55 @@
 
 ## 续作
 
-> So you can put that in your **almanac**
->
-> ——Phineas and Ferb《**We're Back**》
+因为疫情，在家的我又重新研究起了世界生成。
 
-> 公无渡河，公竟渡河！堕河而死，其奈公何！
->
-> ——《公无渡河》
-
-我回来了；没料到，旷日持久。
-
------
-
-> 一切都要从一只蝙蝠说起
->
-> ——网络
-
-在家的我又重新研究起了世界生成。
-
-这次本来没想写这篇文章的——我最初的想法并不复杂，就是看看：原版如何生成生物群系？在这之前，其实已经有了不少模拟世界生成的网站、软件，或无扩展性可言，或依赖于 minecraft.jar。于是我萌生了做一个独立的生物群系生成模拟 api。把原版生物群系生成逻辑剥离出来，我相当于就研究了这整个过程，既然都研究了，索性就记录了下来。
+这次本来没想写这篇文章的——我最初的想法并不复杂，就是看看：原版如何生成生物群系？在这之前，其实已经有了不少模拟世界生成的网站、软件，或无扩展性可言，或依赖于 minecraft.jar。于是我萌生了做一个独立的生物群系生成模拟 api。把原版生物群系生成逻辑剥离出来，我相当于就研究了这整个过程，既然都研究了，索性就记录了下来。这个模拟项目被命名为 DigHog。
 
 我在写这篇文章的过程中，正经历着 1.16 下界更新，下界不再单调，最后一个单生物群系的维度跟我们说再见了。好在 1.14 - 1.16 的主世界生成代码都是一样的，我的前期努力没有白费；可是不断变化的代码，不断变化的名字，总是让我应接不暇，这让我走了不少弯路，放慢了教程的进度。在不断探索的过程之中，我更进一步的加入了许多相关的内容，也许最初文章的目标仅仅只是主世界的生物群系，但一不做二不休，既然来都来了，那我就干脆莽到底！
 
-可是...
+> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Unknown
+>
+> 20年之后，更令你失望的不是你做了什么，而是你没做什么。所以解开帆脚索，离开安全的港湾，赶着航程中的信风，去探索，去梦想，去发现。
+>
+> ——佚名，《终末之诗》鸣谢名单的末尾附言
 
 -----
 
-> 「长期更新」和「长期不更新」其实是一个意思，「长期」这个词本身就有了这个含义。
->
-> ——Yaossg
+事与愿违。
 
-![](<resources/quotes/SF's sigh.png>)
+动笔的时候，已经是我高二下学期了。不久后我便返校，投入了高考的总复习之中。我再没有网课期间那样充裕的时间了。时间过得飞快，我是否会淡忘这个教程呢？
 
-香肠高三了。
+答案是不会，因为 Mojang 很能带给我“惊喜”。1.16.2 横空出世，给我的教程带来了毁灭性的打击。还没等我喘过气，~~1.17~~ 1.18 的更新主题已经昭示我的教程必然只能止步于此了。说来讽刺，我在返校前特意预测了下一次更新的内容和未来一年 Mojang 的时间表，没想到一语成谶。
 
------
+待我高考结束后，面对着陌生的文字，陌生的代码，我倒吸一口凉气。我给我自己定了一个目标，要在前作发布三周年之前发布新作。
 
-> 我如果说我的教程比作日本，那么 1.16.2 就是小男孩和胖子
->
-> ——Yaossg 看了 1.16.2 代码后绝望地说
-
-> 我没觉得更新不好，我只是发觉我之前大量的工作都变得毫无意义了，而感到惆怅
->
-> ——Yaossg 在观看 Minecon Earth 2020 之后感叹
-
-期待已久的 1.16.2 横空出世，可到头来却给我的教程带来了毁灭性的打击。1.16、1.16.2、~~1.17~~ 1.18 可以说是对我“三连击”
-
-![](resources/trio.png)
-
-![](resources/quotes/Brexit.png)
-
-类比英国脱欧，~~1.17~~ 1.18 更新对我的打击便是：新教程发不出来了！我做了一年的工作，被事实打败了！~~1.17~~ 1.18 是一个宏伟的更新，但是毫无疑问是在为我的教程敲响丧钟。
-
------
-
->我很难想象我亲历了这一切；此后之事，就留待后人罢。
->
->——Yaossg《再析世界生成：生物群系》
-
-令我感慨的是，我的教程起与 1.13 世界生成重写，终于 ~~1.17~~ 1.18 世界重写。
+令我感慨的是，我的教程起与 1.13 世界生成重写，终于 ~~1.17~~ 1.18 世界生成重写。
 
 正如我在正文所说，是时候说再见了：我决定就此封笔——我想这是我关于 MC 的最后一篇文章。
 
-_结束了？结束了。_
+呜乎！胜地不常，盛筵难再；兰亭已矣，梓泽丘墟。临别赠言，幸承恩于伟饯；登高作赋，是所望于群公。（——王勃《滕王阁序》）
 
-> 呜乎！胜地不常，盛筵难再；兰亭已矣，梓泽丘墟。临别赠言，幸承恩于伟饯；登高作赋，是所望于群公。
->
-> ——王勃《滕王阁序》
+我很难想象我亲历了这一切；此后之事，就留待后人罢。（——Yaossg《再析世界生成：生物群系》）
+
+_结束了？结束了。_
 
 > I love you. All of you, Thank you for turning *Minecraft* into what it has become...In one sense, it belongs to Microsoft now. In a much bigger sense, it’s belonged to all of you for a long time, and that will never change.
 >
 > ——Notch, interviewed when Minecraft was sold to Microsoft
+
+> And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
+>
+> You are the player.
+>
+> 曲终人散，黄粱一梦。玩家开始了新的梦境。玩家再次做起了梦，更好的梦。玩家就是宇宙。玩家就是爱。
+>
+> 你就是那个玩家。
+>
+> ——Julian Gough《终末之诗》
+
+> 昔我往矣，杨柳依依；今我来思，雨雪霏霏；行道迟迟，载渴载饥；我心伤悲，莫知我哀。
+>
+> ——《诗经·小雅·采薇》
 
 ## 鸣谢 Acknowledge
 
