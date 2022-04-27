@@ -92,3 +92,5 @@ _结束了？结束了。_
 [海螺的关于区块的票的文章](https://izzel.io/2020/09/09/chunks-and-tickets/)
 
 [WaterKing 的讲解视频](https://www.bilibili.com/video/BV12g41177pg)
+
+[WaterKing 的 1.18 讲解视频](https://www.bilibili.com/video/BV13F411376Q)
