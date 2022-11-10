@@ -16,3 +16,7 @@ git-repository-url = "https://github.com/Yaossg/biome"
 site-url = "/biome/"
 
 [output.linkcheck]
+
+[output.katex]
+
+[preprocessor.katex]
