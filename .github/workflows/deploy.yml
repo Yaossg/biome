@@ -23,7 +23,7 @@ jobs:
         run: cargo install mdbook-linkcheck
         
       - name: Setup katex
-        run: cargo install --git "https://github.com/lzanini/mdbook-katex"
+        run: cargo install mdbook-katex
 
       - run: mdbook build
 
