@@ -26,13 +26,11 @@
 
 下面这些属性为下界生物群系特有。
 
-| 下界生物群系     |
-| ---------------- |
-| nether_wastes    |
-| soul_sand_valley |
-| crimson_forest   |
-| warped_forest    |
-| basalt_deltas    |
+ - nether_wastes 
+ - soul_sand_valley
+ - crimson_forest
+ - warped_forest 
+ - basalt_deltas 
 
 ### 相同的属性
 
@@ -49,13 +47,13 @@
 
 下面这些属性对于所有下界生物群系都有相似的值。
 
-将表中\[biome]替换成下界生物群系的名字即为该下界生物群系该属性的值。
+将表中 \[biome] 替换成下界生物群系的名字即为该下界生物群系该属性的值。
 
-| 属性                                       | 值                         |
-| ------------------------------------------ | -------------------------- |
-| **SE.ambientAdditionsSettings.soundEvent** | ambient.\[biome].additions |
-| **SE.ambientLoopSoundEvent**               | ambient.\[biome].loop      |
-| **SE.backgroundMusic.event**               | music.nether.\[biome]      |
+| 属性                                   | 值                         |
+| -------------------------------------- | -------------------------- |
+| SE.ambientAdditionsSettings.soundEvent | ambient.\[biome].additions |
+| SE.ambientLoopSoundEvent               | ambient.\[biome].loop      |
+| SE.backgroundMusic.event               | music.nether.\[biome]      |
 
 ### 其他属性
 
